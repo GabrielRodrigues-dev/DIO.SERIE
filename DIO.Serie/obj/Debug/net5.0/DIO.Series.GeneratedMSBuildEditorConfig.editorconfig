@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = DIO.Series
+build_property.ProjectDir = c:\Users\User\1-estudos\1-programacao\1-cs\1-DIO-Exercicios-CS-DecolaTech\1-exercicio-de-cadastroDeSerie-cs\DIO.Serie\
